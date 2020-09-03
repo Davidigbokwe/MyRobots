@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/MyRobots/static/js/runtime~main.292acb96.js"
   },
   {
-    "revision": "ad5954c78e0a37fa668c",
-    "url": "/MyRobots/static/js/main.1c8b2fc0.chunk.js"
+    "revision": "85b157c93fc968d7fe8d",
+    "url": "/MyRobots/static/js/main.bc0dd343.chunk.js"
   },
   {
     "revision": "61bdc79c98afb03969b1",
     "url": "/MyRobots/static/js/2.67f05437.chunk.js"
   },
   {
-    "revision": "ad5954c78e0a37fa668c",
+    "revision": "85b157c93fc968d7fe8d",
     "url": "/MyRobots/static/css/main.be8f051e.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/MyRobots/static/css/2.58e516f0.chunk.css"
   },
   {
-    "revision": "d6a1e4a6f8308656b749624945c6fd4e",
+    "revision": "4c5be39bea42d3409857b16f3b2f21b4",
     "url": "/MyRobots/index.html"
   }
 ];
